@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Caroline Lima
 
-Olá! Me chamo Caroline, tenho 20 anos e sou de São Paulo. Atualmente cursando Sistemas de Informação na USJT, comecei meus estudos focados em desenvolvimento Front-End e hoje estou me aprofundando em Dados.
+Olá! Me chamo Caroline, tenho 21 anos e sou de São Paulo. Atualmente cursando Sistemas de Informação na USJT, comecei meus estudos focados em desenvolvimento Front-End e hoje estou me aprofundando em Dados.
 
 ---
 
